@@ -113,3 +113,62 @@ args可以是临时属性的设置
 
 
 关于日志	63-66
+
+
+
+
+
+
+
+
+
+
+
+
+
+开发实用篇
+
+启动热部署：
+
+![](./picture/Quicker_20230217_193727.png)
+
+热部署仅仅加载当前开发者自定义开发的资源,不加载jar资源
+
+
+
+自动热部署：68集
+
+
+
+
+
+![](./picture/Quicker_20230217_201559.png)
+
+
+
+
+
+
+
+关于测试：从76开始
+
+
+
+
+
+![](./picture/Quicker_20230217_204702.png)
+
+
+
+
+
+
+
+SpringBoot提供了3种内嵌的数据源对象供开发者选择
+	HikariCP
+	Tomcat提供DataSource
+	Commons DBCP
+
+
+
+![](./picture/Quicker_20230217_205705.png)
