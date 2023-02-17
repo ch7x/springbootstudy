@@ -60,7 +60,7 @@ SpringBoot整合MyBatisPlus
 
 想使用分页功能需要添加拦截器
 
-![](F:\myhome\springbootstudy\picture\Quicker_20230216_184952.png)
+![](./picture/Quicker_20230216_184952.png)
 
 
 
@@ -68,7 +68,7 @@ SpringBoot整合MyBatisPlus
 
 @RestControllerAdvice = @ControllerAdvice + @ResponseBody
 
-![](F:\myhome\springbootstudy\picture\Quicker_20230216_195848.png)
+![](./picture/Quicker_20230216_195848.png)
 
 
 
@@ -80,7 +80,7 @@ SpringBoot整合MyBatisPlus
 
 工程打包与运行
 
-![](F:\myhome\springbootstudy\picture\Quicker_20230216_202216.png)
+![](./picture/Quicker_20230216_202216.png)
 
 1, SpringBoot工程可以基于java环境下独立运行jar文件启动服务
 2, SpringB00t工程执行mvn命令package进行打包
@@ -90,13 +90,13 @@ SpringBoot整合MyBatisPlus
 
 
 
-![](F:\myhome\springbootstudy\picture\Quicker_20230216_202805.png)
+![](./picture/Quicker_20230216_202805.png)
 
 
 
 临时属性（比如端口需要改变）
 
-![](F:\myhome\springbootstudy\picture\Quicker_20230216_203830.png)
+![](./picture/Quicker_20230216_203830.png)
 
 
 
